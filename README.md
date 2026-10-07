@@ -11,6 +11,10 @@ npm run dev
 
 No account or API key is required. The app starts with an exhibition-ready Demo Mode and saves progress in the browser.
 
+### Windows one-click launch
+
+Double-click **Run AI 360.bat** in the project folder. It checks for Node.js and npm, installs dependencies from the lockfile on first run, and opens the app in your browser. Keep the launcher window open while using AI 360. If Node.js is missing, install it from [nodejs.org](https://nodejs.org/) and run the script again.
+
 ## Commands
 
 - `npm run dev` — start the development server
